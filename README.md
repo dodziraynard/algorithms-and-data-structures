@@ -23,16 +23,17 @@ python .\power.py
 
 ### Testing Power calculator
 
-````bash
+```bash
 cd .\sir-mark-algo
 python py.test
+```
 
 ### Text printing
 
 ```bash
 cd .\sir-mark-algo
 python .\print_text.py
-````
+```
 
 ### Number of languages spoken
 
